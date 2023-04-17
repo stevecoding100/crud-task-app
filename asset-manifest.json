@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud-task-app/static/css/main.eb0f37d6.css",
+    "main.js": "/crud-task-app/static/js/main.e7297527.js",
+    "index.html": "/crud-task-app/index.html",
+    "main.eb0f37d6.css.map": "/crud-task-app/static/css/main.eb0f37d6.css.map",
+    "main.e7297527.js.map": "/crud-task-app/static/js/main.e7297527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0f37d6.css",
+    "static/js/main.e7297527.js"
+  ]
+}
